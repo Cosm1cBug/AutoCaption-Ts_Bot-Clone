@@ -1,10 +1,5 @@
 # AutoCaption-Ts_Bot
 
-
-An open source of telegram Auto Caption bot
-
-- For demo you can check the <b>[AutoCaption_Ts_Bot](https://telegram.me/AutoCaption_Ts_Bot)</b>
-
 # About Bot
 
 This is a light weight and fastest Auto caption bot which can add caption prescribed by the admin of bot
@@ -43,7 +38,7 @@ You can deploy the bot using heroku
  
 - 👇 Press the deploy button.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ts-bots/AutoCaption-Ts_Bot-Clone)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Cosm1cBug/AutoCaption-Ts_Bot-Clone)
 
 ## Please note
 
